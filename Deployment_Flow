@@ -1,0 +1,2 @@
+Jenkins jobs will be triggered on any change in openstack-* and infra-* cookbooks.
+The basic job will run the syntax and unit tests before merging to ccpdev branch. As a result we will have syntax clean ccpdev branch.
